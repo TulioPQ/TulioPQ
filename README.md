@@ -2,6 +2,9 @@
 - 👀 Tenho interesse React e Python
 - 🌱 Atualmente estou aprofundando meus conhecimentos em React
 - 📫 Email: tuliopq@yahoo.com.br
+- Alguns trabalhos:
+  https://pokedex-git-main-tuliopq.vercel.app/
+  https://tuliopq.github.io/ecommerce-product/
 
 <!---
 TulioPQ/TulioPQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
